@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
             bundle.putInt("number_int", number)
             val fragmentManager: FragmentManager = supportFragmentManager
             val fragmentTransaction = fragmentManager.beginTransaction()
-            fragmentTransaction.replace(R.id.frame_layout, fragmentOne)
+            fragmentTransaction.replace(R.id.frame, fragmentOne)
             fragmentTransaction.commit()
         }
 
