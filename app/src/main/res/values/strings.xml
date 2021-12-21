@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">bcsd_task5</string>
-    <string name="TOAST">TOAST</string>
-    <string name="message">메시지</string>
-    <string name="Positive">Positive</string>
+    <string name="TOAST">노트 수정</string>
+    <string name="message">노트를 삭제하시겠습니까?</string>
+    <string name="Positive">삭제</string>
     <string name="Neutral">Neutral</string>
     <string name="Toast_message">Toast 메시지</string>
-    <string name="Negative">Negative</string>
+    <string name="Negative">취소</string>
     <string name="fifth">15</string>
     <string name="menu_title_calculate">calculate</string>
     <string name="menu_title_note">note</string>
