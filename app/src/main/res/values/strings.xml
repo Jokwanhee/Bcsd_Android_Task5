@@ -7,4 +7,6 @@
     <string name="Toast_message">Toast 메시지</string>
     <string name="Negative">Negative</string>
     <string name="fifth">15</string>
+    <string name="menu_title_calculate">calculate</string>
+    <string name="menu_title_note">note</string>
 </resources>
